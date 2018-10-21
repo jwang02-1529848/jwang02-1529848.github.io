@@ -1,0 +1,13 @@
+#Content1{
+    border: solid 8px black;
+    border-bottom-color: aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: pink;
+}
+
+#Content2{
+    border: solid 8px black;
+    border-bottom-color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: pink;
+}
