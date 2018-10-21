@@ -1,0 +1,12 @@
+#body{
+    background-color: honeydew;
+}
+#Content1{
+    border: solid 8px black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#Content2{
+    border: solid 8px black;
+    font-family: unset;
+}
